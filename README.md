@@ -1,3 +1,3 @@
 # step
 
-My Step Project!
+"This repo contains Royce's portfolio and STEP projects."
